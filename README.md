@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/manishacharya60/raspberryPi_voice_assistant.git
+    git clone https://github.com/manishacharya60/openai_pi_voice_assistant.git
     ```
 
 2. **Create a `.env` file**:
